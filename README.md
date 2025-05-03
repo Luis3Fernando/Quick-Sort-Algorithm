@@ -17,6 +17,7 @@ This project allows users to input the size of an array, enter its elements, and
 
 ---
 ## 📁 Project Structure
+```bash
 Quick-Sort-ALgorithm/
 ├── include/
 │ ├── functions_menu.h
@@ -26,6 +27,7 @@ Quick-Sort-ALgorithm/
 │ └── quick_sort.cpp
 ├── main.cpp
 └── QuickSort.exe
+``
 
 ---
 
