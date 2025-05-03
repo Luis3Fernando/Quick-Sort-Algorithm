@@ -27,7 +27,7 @@ Quick-Sort-ALgorithm/
 │ └── quick_sort.cpp
 ├── main.cpp
 └── QuickSort.exe
-``
+```
 
 ---
 
