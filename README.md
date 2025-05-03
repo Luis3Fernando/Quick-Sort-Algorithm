@@ -27,6 +27,8 @@ Quick-Sort-ALgorithm/
 ├── main.cpp
 └── QuickSort.exe
 
+---
+
 ## 📸 Screenshots
 
 **Step 1: Input data**  
@@ -39,11 +41,6 @@ Then the initial list and the sorted list will be displayed:
 
 <img src="assets/screenshots/results.png" width="600"/>
 
-
----
-## 📄 License
-
-This project is open-source under the MIT License.
 ---
 
 ## ⚙️ Installation
