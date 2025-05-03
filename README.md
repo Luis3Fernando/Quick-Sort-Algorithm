@@ -49,13 +49,13 @@ Clone this repository and run the app locally with just a few commands:
 
 ```bash
 git clone https://github.com/Luis3Fernando/Quick-Sort-Algorithm
-``
+```
 ```bash
 cd Quick-Sort-Algorithm
-``
+```
 ```bash
 g++ main.cpp src/functions_menu.cpp src/quick_sort.cpp -I include -o QuickSort
-``
+```
 
 ```bash
 ./QuickSort #or QuickSort.exe
